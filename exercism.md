@@ -1,5 +1,6 @@
 # Progress on exercism
 |  | Exercise | Mentor |
+| :--- | :---: | :--- |
 | 1 | Hello World | - |
 | 2 | Little sister's vocabulary | szabgab |
 | 3 | Guido's gorgeous lasgne | - |
