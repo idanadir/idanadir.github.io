@@ -1,5 +1,6 @@
 
 # Progress on exercism
+
 |  | Exercise | Mentor |
 | :--- | :---: | :--- |
 | 1 | Hello World | - |
