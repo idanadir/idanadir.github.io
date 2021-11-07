@@ -1,7 +1,4 @@
 # Setup
+title: Idan's first website - where mistakes come to life
 theme: jekyll-theme-cayman
-title: [Idan's first website - where mistakes come to life]
-show_downloads: false
- 
- #Others
-markdown: kramdown
+
