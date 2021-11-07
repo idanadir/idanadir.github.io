@@ -9,7 +9,8 @@
 - Then make new directory for your local repositort using 'mkdir' path
 - Enter username and password from your github account:
 - To allow authorisation for git, make a .SSH key:
-	- type: 'ssh-keygen -t ed25519 -C your_email@example.com'
+	- type: 
+> 'ssh-keygen -t ed25519 -C your_email@example.com'
 	- Press enter '> Enter a file in which to save the key (/c/Users/you/.ssh/id_algorithm)'
 	- Write private password '> Enter passphrase (empty for no passphrase):'
 	- Enter it again: 'Enter same passphrase again:'
