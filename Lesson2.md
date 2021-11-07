@@ -4,7 +4,8 @@
 - Create an online repository in github (pretty straigt forward)
 - First: install git scm on PC
 - Open git-bash app – this opens a command line window
-- Decide on where you would like your workspace to be and enter 'cd <path>' 
+- Decide on where you would like your workspace to be and enter 
+'cd <path>' 
 - Then make new directory for your local repositort using 'mkdir' path
 - Enter username and password from your github account:
 - To allow authorisation for git, make a .SSH key:
