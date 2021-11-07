@@ -1,6 +1,6 @@
 
 ## [About the site:](https://idanadir.github.io/about)
 
-## Python notes:
+## [Python notes:](https://idanadir.github.io/exercism)
 
-## Exercism update:
+## [Exercism update:](https://idanadir.github.io/exercism)
