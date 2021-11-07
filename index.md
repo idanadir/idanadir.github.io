@@ -1,3 +1,6 @@
-My fist website
 
-trying *bold*
+##About the site:
+
+##Python notes:
+
+##Exercism update:
