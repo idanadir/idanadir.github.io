@@ -1,6 +1,7 @@
+# About
 ## About me:
 My name is Idan,
-I am from the Sagi Lab in the weizmann institute.
+I am from the [Sagi Lab](http://www.weizmann.ac.il/Biological_Regulation/IritSagi/home) in the weizmann institute.
 I am a novice coder with the over-all goal of finding ways to incorporate programing into my more biological projects.
 
 ## Reason for this site:
