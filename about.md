@@ -9,4 +9,4 @@ This site is a place where I will be testing the usefullness of even haveing a w
 I will be uploading notes as well as update my progress with exersism.
 Lastly, I **will** *be* 'testing' ---all--- ~~sorts~~ of formating and [configuration](https://idanadir.github.io/) options.
 
-[Back](https://github.com/idanadir/idanadir.github.io)
+[Back](https://idanadir.github.io)
