@@ -3,6 +3,6 @@
 
 ## [Exercism update:](https://idanadir.github.io/exercism)
 
-## [Python notes:]
+## Python notes:
   - [Lesson 2 - Working with GitHub](https://idanadir.github.io/lesson2)
 
